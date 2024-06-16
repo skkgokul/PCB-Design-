@@ -1,0 +1,28 @@
+Drill report for FAC.kicad_pcb
+Created on 2024-06-13T18:35:41+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'FAC-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (8 holes)
+    T2  0.700mm  0.0276"  (8 holes)
+    T3  0.800mm  0.0315"  (10 holes)
+    T4  0.900mm  0.0354"  (8 holes)
+    T5  1.000mm  0.0394"  (4 holes)
+    T6  1.800mm  0.0709"  (1 hole)
+
+    Total plated holes count 39
+
+
+Drill file 'FAC-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.600mm  0.0630"  (1 hole)
+
+    Total unplated holes count 1

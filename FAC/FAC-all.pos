@@ -1,0 +1,19 @@
+### Footprint positions - created on 2024-06-13T18:34:28+0530 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                                PosX       PosY       Rot  Side
+BZ1       Buzzer           Buzzer_12x9.5RM7.6                                 183.8760   -90.2970  180.0000  top
+C1        0.01u            C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal           167.4530   -95.6310  180.0000  top
+C2        100u             CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal        160.2670  -100.9535    0.0000  top
+D1        LED              LED_D3.0mm                                         128.0160   -91.1860    0.0000  top
+D2        5.1v_400mW       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   156.2100   -89.7890  180.0000  top
+J1        +12v             Hirose_DF63M-1P-3.96DSA_1x01_P3.96mm_Vertical      147.9310   -82.0940    0.0000  top
+R1        4.7k             R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   133.8580   -89.6620  -90.0000  top
+R2        22K              R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   137.5410   -89.7890    0.0000  top
+RV1       R_Potentiometer  Potentiometer_ACP_CA6-H2,5_Horizontal              127.6750   -96.1790    0.0000  top
+RV2       100K             Potentiometer_ACP_CA6-H2,5_Horizontal              159.5840   -86.6540    0.0000  top
+TH1       Thermistor       R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical     133.9850   -99.9540  -90.0000  top
+U1        LM741            DIP-8-16_W7.62mm                                   138.3030  -101.9760   90.0000  top
+U2        NE555D           SOIC-8_3.9x4.9mm_P1.27mm                           166.8780   -89.1540   90.0000  top
+## End

@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-job.gbrjob'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-F_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-B_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\project 2\FAC\FAC-job.gbrjob'.
+Info: Done.
+Info: Done.
